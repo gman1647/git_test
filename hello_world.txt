@@ -1,2 +1,3 @@
 Learning Git and the terminal and GitHub with the Odin Project
-Tons of fun. Lots to remember. 
+Tons of fun. Lots to remember.
+Trying to do some github tests now. 
